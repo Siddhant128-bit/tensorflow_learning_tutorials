@@ -10,5 +10,5 @@
 <ol>
     <li> <a href='tensorflow_learning_1.ipynb'> Basics of tensorflow </a></li>
         <p> This notebook is for very basics as to understand how to train simple model with mnist dataset. </p>
-    <li><a href='tensorflow_image_classification.ipynb'</li>
+    <li><a href='tensorflow_image_classification.ipynb'> Image Classification </a>a</li>
 </ol> 
